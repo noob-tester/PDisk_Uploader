@@ -1,6 +1,23 @@
 # Pdisk Uploader Bot 🔥
 
 Upload on Pdisk by Url, File and also by direct forward post from other channel...
+.
+
+.
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/noob-tester/PDisk_Uploader/stargazers">
+    <img src="https://img.shields.io/github/stars/noob-tester/PDisk_Uploader?style=social">
+
+  </a>
+  
+  <a href="https://github.com/noob-tester/PDisk_Uploader/fork">
+    <img src="https://img.shields.io/github/forks/noob-tester/PDisk_Uploader?label=Fork&style=social">
+
+  </a>  
+</p>
+
 
 ## Features
 
