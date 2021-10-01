@@ -7,13 +7,13 @@ Upload on Pdisk by Url, File and also by direct forward post from other channel.
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/noob-tester/PDisk_Uploader/stargazers">
-    <img src="https://img.shields.io/github/stars/noob-tester/PDisk_Uploader?style=social">
+  <a href="https://github.com/OO7ROBot/pdisk_uploader/stargazers">
+    <img src="https://img.shields.io/github/stars/OO7ROBot/pdisk_uploader?style=social">
 
   </a>
   
-  <a href="https://github.com/noob-tester/PDisk_Uploader/fork">
-    <img src="https://img.shields.io/github/forks/noob-tester/PDisk_Uploader?label=Fork&style=social">
+  <a href="https://github.com/OO7ROBot/pdisk_uploader/fork">
+    <img src="https://img.shields.io/github/forks/OO7ROBot/pdisk_uploader?label=Fork&style=social">
 
   </a>  
 </p>
@@ -29,7 +29,7 @@ Upload on Pdisk by Url, File and also by direct forward post from other channel.
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/OO7ROBot/pdisk_uploader)
 
 ##### Required Variables
 
