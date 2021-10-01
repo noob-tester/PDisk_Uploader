@@ -15,7 +15,7 @@
         },
         "PDISK_API_KEY": {
             "description": "Get this from https://www.pdisk.me/use-api (must change)",
-            "value": "d03ea83365f488f7003c885ed132615b"
+            "value": ""
         }
     },
     "addons": [],
